@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository.
 <br>
-Author - Vedant Mali
+Author - Vedant Suryakant Mali
